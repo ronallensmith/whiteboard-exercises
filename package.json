@@ -11,5 +11,8 @@
     "exercises"
   ],
   "author": "ron smith",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
